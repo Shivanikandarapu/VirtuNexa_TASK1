@@ -23,11 +23,11 @@ Technologies Used
 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/fashion-webpage.git
+   git clone https://github.com/Shivanikandarapu/VirtuNexa_TASK1.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd fashion-webpage
+   cd VirtuNexa
    ```
 3. Open the `index.html` file in your preferred browser.
 
